@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "ID": 1,
+      "title": "Hello there!",
+      "content": "<p>Hi my name is Roy</p>",
+      "image" : "http://lorempixel.com/output/people-q-c-640-480-6.jpg"
+    },
+    {
+      "ID": 2,
+      "title": "Hey there!",
+      "content": "<p>Hi my name is Josh</p>",
+      "image" : "http://lorempixel.com/output/people-q-c-640-480-7.jpg"
+    },
+    {
+      "ID": 3,
+      "title": "Welcome to LoopConf!",
+      "content": "<p>Hi my name is Ryan</p>",
+      "image" : "http://lorempixel.com/output/people-q-c-640-480-8.jpg"
+    },
+    {
+      "ID": 4,
+      "title": "Angular is the BEST!",
+      "content": "<p>Hi my name is Matt</p>",
+      "image" : "http://lorempixel.com/output/people-q-c-640-480-9.jpg"
+    },
+    {
+      "ID": 5,
+      "title": "Buh Bye now",
+      "content": "<p>Hi my name is Norcross</p>",
+      "image" : "http://lorempixel.com/output/people-q-c-640-480-2.jpg"
+    }
+  ]
+}

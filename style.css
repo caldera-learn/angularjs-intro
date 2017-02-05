@@ -1,0 +1,29 @@
+#app-container {
+    margin: 0 auto;
+    width: 75%;
+}
+
+article {
+    border-bottom: 2px solid rgba( 0,0,0,0.25 );
+    height: 200px;
+    padding: 20px 0;
+}
+
+article::before {
+    clear: both;
+    content: '';
+    display: block;
+    height: 1px;
+    width: auto;
+}
+
+article h2 {
+    margin: 0;
+}
+
+article img {
+    float: left;
+    height: 200px;
+    margin: 0 20px 0 0;
+    width: auto;
+}
